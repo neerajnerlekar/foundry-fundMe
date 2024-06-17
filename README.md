@@ -36,8 +36,7 @@ _[⭐️ Updraft | Foundry Fund Me](https://updraft.cyfrin.io/courses/foundry/fo
 ## Quickstart
 
 ```
-git clone https://github.com/Cyfrin/foundry-fund-me-f23
-cd foundry-fund-me-f23
+git clone https://github.com/neerajnerlekar/foundry-fundMe.git
 forge build
 ```
 
